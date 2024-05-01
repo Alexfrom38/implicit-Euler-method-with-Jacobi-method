@@ -278,7 +278,6 @@ int main()
 	}
 
 
-
 	t2 = omp_get_wtime();
 	dt = t2 - t1;
 	std::cout << dt << std::endl;
